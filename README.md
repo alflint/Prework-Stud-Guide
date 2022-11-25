@@ -1,2 +1,2 @@
 # Prework-Study-Guide
-A study guide for course pre-work. Test Update
+A study guide for course pre-work.
